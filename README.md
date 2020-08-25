@@ -1,2 +1,2 @@
 # sistema-academico
-Sistema que me permitirá el registro de alumnos el control de asistencias y calificaciones del curso 
+Sistema que me permitirá el registro de asistencias y calificaciones del curso 
